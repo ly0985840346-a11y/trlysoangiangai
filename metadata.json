@@ -1,0 +1,5 @@
+{
+  "name": "Trợ lý soạn giảng giáo án mầm non",
+  "description": "AI-powered tool to generate and refine preschool lesson plans using Gemini 3.1 Pro.",
+  "requestFramePermissions": []
+}
